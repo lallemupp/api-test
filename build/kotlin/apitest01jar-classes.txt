@@ -1,0 +1,1 @@
+/home/love/workspace/api-test/build/classes/kotlin/main/com/fridaymastermix/ApplicationKt.class

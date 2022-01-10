@@ -1,0 +1,1 @@
+[engine:junit-jupiter]/[class:com.fridaymastermix.ApiTestTest]/[method:testItWorks()]
